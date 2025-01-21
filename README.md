@@ -6,6 +6,8 @@ An Effective Distributed Logging System designed to collect logs from microservi
 ## Architecture
 ![Screenshot 2025-01-21 115847](https://github.com/user-attachments/assets/97c3ab26-909c-4284-935f-e4c32a6d585e)
 
+<br/>
+
 ### Kibana Analytics Dashboard
 ![image](https://github.com/user-attachments/assets/f251cd1b-b496-45e4-945f-7fe62dce6101)
 
@@ -14,3 +16,7 @@ An Effective Distributed Logging System designed to collect logs from microservi
 ![image](https://github.com/user-attachments/assets/ca3aa68b-f5c8-4ac4-8e06-491a73f24bad)
 ![image](https://github.com/user-attachments/assets/6f02b303-c485-4d4a-8d61-e42e77afb980)
 
+<br/>
+
+## License
+MIT License
